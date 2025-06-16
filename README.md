@@ -1,7 +1,7 @@
 ## 👨‍💻 Hi Mate! 
 I'm Victor Freitas. <br>
 
-Studying and future Java Web Development.
+Studying and future Java Web Developer.
 
 Graduating as a Java Fullstack Dev | Technical Support 💻
 
