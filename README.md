@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👨‍💻 Hi Mate! 
+I'm Victor Freitas. <br>
 
-<!--
-**victor-freitas545/victor-freitas545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Studying and future Java Web Development.
 
-Here are some ideas to get you started:
+Graduating as a Java Fullstack Dev | Technical Support 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus currently is in Full Stack.
+
+### ✅ Let's get connected 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/1274158814916116631)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-saul-de-freitas-49a2a8357/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viti.freitas/)
+
+### 🛠️ Technologies and Tools I use:
+<div>
+  <img align= "center" alt="Victor-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align= "center" alt="Victor-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align= "center" alt="Victor-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align= "center" alt="Victor-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img align= "center" alt="Victor-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
+  <img align= "center" alt="Victor-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg">
+  <img align= "center" alt="Victor-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+
+</div>
+
