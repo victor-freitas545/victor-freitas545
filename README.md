@@ -7,6 +7,12 @@ Graduating as a Java Fullstack Dev | Technical Support 💻
 
 My focus currently is in Full Stack.
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-freitas545&show_icons=true&theme=tokyonight">
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-freitas545&layout=compact&theme=tokyonight"/>
+
+</div>
+
 ### ✅ Let's get connected 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](viti.02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-saul-de-freitas-49a2a8357/)
