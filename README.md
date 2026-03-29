@@ -3,7 +3,7 @@ I'm Victor Freitas. <br>
 
 Studying and future Java Web Developer.
 
-Graduating as a Java Fullstack Dev | Technical Support 💻
+Graduating as a Java Fullstack Dev 💻
 
 My focus currently is in Full Stack.
 
